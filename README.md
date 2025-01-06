@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Hello World!](https://github.com/OnlyRays1/HelloWorld/tree/main)
-  - [Active Directory Home Lab](URL)
+  - [Active Directory Home Lab](https://github.com/OnlyRays1/Active-Directory-Lab)
 
 
 <h2> About me:</h2>
