@@ -6,16 +6,6 @@
   - [Active Directory Home Lab](URL)
 
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Christorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christopher-torres-8272991a4/)
-
-[linkedin]: [https://linkedin.com/in/christopher-torres-8272991a4/](https://www.linkedin.com/in/christopher-torres-8272991a4/)
-
-
-
-
 <h2> About me:</h2>
 
 - 👋 Hi, I’m @OnlyRays1
@@ -25,4 +15,14 @@
 - ⚡ Fun fact: I’m bilingual in Spanish and English and love learning about new technologies while exploring different ways to optimize systems!
 
 Check out my projects, and feel free to connect if you'd like to collaborate or share ideas!
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Christorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/christopher-torres-8272991a4/)
+
+[linkedin]: [https://linkedin.com/in/christopher-torres-8272991a4/](https://www.linkedin.com/in/christopher-torres-8272991a4/)
+
+
+
 
